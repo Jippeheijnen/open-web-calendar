@@ -1,6 +1,6 @@
 Open Web Calendar
 =================
-
+ 
 [![Build Status](https://travis-ci.org/niccokunzmann/open-web-calendar.svg?branch=master)](https://travis-ci.org/niccokunzmann/open-web-calendar)
 **[Try it out][web]**
 
